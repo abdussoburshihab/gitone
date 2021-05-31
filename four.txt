@@ -8,6 +8,10 @@ helloo44
 shihab
 >>>>>>> main
 
+<<<<<<< HEAD
 abdus
 
 addde333
+=======
+tumi valo assooo
+
